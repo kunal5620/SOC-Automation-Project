@@ -1,7 +1,7 @@
-# DFIR SOC Automation Project – Wazuh, Shuffle & TheHive
+# SOC Automation Project – Wazuh, Shuffle & TheHive
 
 ## 📌 Project Overview
-This project demonstrates an **automated SOC & DFIR workflow** designed to detect, enrich, and respond to security alerts using **Wazuh**, **Shuffle SOAR**, and **TheHive**.
+This project demonstrates an **automated SOC & workflow** designed to detect, enrich, and respond to security alerts using **Wazuh**, **Shuffle SOAR**, and **TheHive**.
 
 The automation focuses on **Windows-based attack detection (Mimikatz execution)** and performs **hash enrichment, threat intelligence lookup, analyst notification, and incident creation** without manual intervention.
 
