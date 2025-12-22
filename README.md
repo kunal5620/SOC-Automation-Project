@@ -1,5 +1,7 @@
 # SOC Automation Project – Wazuh, Shuffle & TheHive
 
+![Alt text](Architecture/SOC automation digram.png)
+
 ## 📌 Project Overview
 This project demonstrates an **automated SOC & workflow** designed to detect, enrich, and respond to security alerts using **Wazuh**, **Shuffle SOAR**, and **TheHive**.
 
